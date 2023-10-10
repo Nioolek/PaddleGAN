@@ -48,4 +48,5 @@ from .gfpganv1_arch import GFPGANv1, StyleGAN2DiscriminatorGFPGAN
 from .invdn import InvDN
 from .nafnet import NAFNet, NAFNetLocal
 from .nafnet_plus import NAFNetPlus
+from .nafnet_dfl import NAFNetDFL
 from .generater_aotgan import InpaintGenerator
